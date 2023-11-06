@@ -1,5 +1,5 @@
 # CLASE 8
-proyecto para aprender a manerjar Git y GitHub
+proyecto para aprender a manejar Git y GitHub
 
 ##Caracteristicas
 * Función que suma 5 enteros de una lista
